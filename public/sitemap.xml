@@ -81,11 +81,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc></loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://pawnote.entrext.com/blog/7-ways-to-hide-pills</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -202,11 +197,6 @@
     </url>
     <url>
         <loc>https://pawnote.entrext.com/blog/allergies-skin-issues-elimination-diet</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://happytails.care/blog/cutting-toes-guide-stress-free-nail-trimming</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
